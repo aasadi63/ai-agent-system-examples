@@ -1,0 +1,8 @@
+langchain 
+huggingface_hub 
+transformers 
+pyyaml 
+markdownify 
+pandas 
+PyGithub
+tabulate
